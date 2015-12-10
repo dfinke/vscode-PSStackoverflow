@@ -10,13 +10,14 @@
 		"Other"
 	],
 	"activationEvents": [
-		"onCommand:extension.sayHello"
+		"onCommand:PowerShell.SearchSO"
 	],
 	"main": "./out/src/extension",
 	"contributes": {
 		"commands": [{
-			"command": "extension.sayHello",
-			"title": "Hello World"
+			"command": "PowerShell.SearchSO",
+			"title": "Search Stackoverflow with PowerShell Tag",
+			"category": "PowerShell"
 		}]
 	},
 	"scripts": {
