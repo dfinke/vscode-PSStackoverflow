@@ -1,8 +1,22 @@
 {
   "name": "vscode-PSStackoverflow",
-  "description": "Extension to search stackoverflow for selected text and powershell",
+  "description": "Search for selected text + the PowerShell tag on Stack Overflow",
+  "displayName" : "PowerShell Stack Overflow Search",
+  "icon": "images/PSSOIcon.png",
   "version": "0.0.1",
-  "publisher": "Doug Finke",
+  "publisher": "DougFinke",  
+  
+  "license": "SEE LICENSE",
+  "bugs": {
+      "url": "https://github.com/Microsoft/vscode-spell-check/issues",
+      "email": "finked@hotmail.com"
+  },
+  "homepage": "https://github.com/Microsoft/vscode-spell-check/blob/master/README.md",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/Microsoft/vscode-spell-check.git"
+  },
+  
   "engines": {
     "vscode": "^0.10.1"
   },

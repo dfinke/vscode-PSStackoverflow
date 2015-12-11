@@ -1,13 +1,5 @@
-# README
-## This is the README for your extension "vscode-PSStackoverflow" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# PowerShell Stack Overflow VS Code Search
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+Let's you search Stack Overflow by pressing `ctrl+shift+f1`. It will search for entries tagged with *PowerShell*.
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
-
-** Enjoy!**
+![image](https://raw.githubusercontent.com/dfinke/GifCam/master/VSCodeSO.gif)
