@@ -3,7 +3,7 @@
   "description": "Search for selected text + the PowerShell tag on Stack Overflow",
   "displayName" : "PowerShell Stack Overflow Search",
   "icon": "images/PSSOIcon.png",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "DougFinke",  
   
   "license": "SEE LICENSE",

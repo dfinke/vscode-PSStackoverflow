@@ -12,7 +12,7 @@ export function activate(context: vscode.ExtensionContext) {
 		const editor = vscode.window.activeTextEditor;        
         var text = editor.document.getText(editor.selection);
 						 
-		var url = 'http://stackoverflow.com/search?q=powershell]+'+text;		 
+		var url = 'http://stackoverflow.com/search?q=[powershell]+'+text;		 
 		 
 		open(url);
 	});
