@@ -7,14 +7,15 @@
   "publisher": "DougFinke",  
   
   "license": "SEE LICENSE",
+
   "bugs": {
-      "url": "https://github.com/Microsoft/vscode-spell-check/issues",
+      "url": "https://github.com/dfinke/vscode-PSStackoverflow/issues",
       "email": "finked@hotmail.com"
   },
-  "homepage": "https://github.com/Microsoft/vscode-spell-check/blob/master/README.md",
+  "homepage": "https://github.com/dfinke/vscode-PSStackoverflow/blob/master/README.md",
   "repository": {
       "type": "git",
-      "url": "https://github.com/Microsoft/vscode-spell-check.git"
+      "url": "https://github.com/dfinke/vscode-PSStackoverflow.git"      
   },
   
   "engines": {
